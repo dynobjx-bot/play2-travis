@@ -53,4 +53,8 @@ class ReportSpec extends Specification {
       contentAsJson(result) mustEqual TestData.expectedReportsWithWorld
     }
   }
+
+  "testing a failure" in {
+    true must equalTo(false)    
+  }
 }
