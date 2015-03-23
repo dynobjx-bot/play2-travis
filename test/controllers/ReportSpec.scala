@@ -54,7 +54,7 @@ class ReportSpec extends Specification {
     }
   }
 
-  "testing a failure" in {
+  /*"testing a failure" in {
     true must equalTo(false)    
-  }
+  }*/
 }
