@@ -1,6 +1,6 @@
 # Play Slick AngularJS Bootstrap H2 Tests Example
 
-[![Build Status](https://travis-ci.org/pvoznenko/play-slick-angular-test-example.svg)](https://travis-ci.org/pvoznenko/play-slick-angular-test-example)
+[![Build Status](https://travis-ci.org/dynobjx-bot/play2-travis.svg?branch=master)](https://travis-ci.org/dynobjx-bot/play2-travis)
 
 Main goal of this Example is to show how to test Play Framework in memory using H2 and Slick and keep MySQL as main database.
 
